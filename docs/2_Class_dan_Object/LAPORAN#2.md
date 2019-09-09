@@ -1,4 +1,4 @@
-# Laporan Praktikum #2 - CLASS DAN OBJEC
+# Laporan Praktikum #2 -2_Class_dan_Object
 
 ## Kompetensi
 
@@ -20,7 +20,7 @@ dapat memahami deskripsi dari class dan object
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
