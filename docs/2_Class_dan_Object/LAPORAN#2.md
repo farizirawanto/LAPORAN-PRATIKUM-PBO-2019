@@ -2,7 +2,7 @@
 
 ## Kompetensi
 
-Mahasiswa dapat memahami deskripsi dari class dan object 
+ dapat memahami deskripsi dari class dan object 
  Mahasiswa memahami implementasi dari class git
  Mahasiswa dapat memahami implementasi dari attribute 
  Mahasiswa dapat memahami implementasi dari method 
