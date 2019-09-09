@@ -1,9 +1,9 @@
-# Laporan Praktikum #2 - Pengantar Konsep PBO
+# Laporan Praktikum #2 - CLASS DAN OBJECT
 
 ## Kompetensi
 
 Mahasiswa dapat memahami deskripsi dari class dan object 
- Mahasiswa memahami implementasi dari class 
+ Mahasiswa memahami implementasi dari class git
  Mahasiswa dapat memahami implementasi dari attribute 
  Mahasiswa dapat memahami implementasi dari method 
  Mahasiswa dapat memahami implementasi dari proses instansiasi
