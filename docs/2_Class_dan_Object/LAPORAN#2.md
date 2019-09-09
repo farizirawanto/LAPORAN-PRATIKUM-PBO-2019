@@ -1,4 +1,4 @@
-# Laporan Praktikum #2 - CLASS DAN OBJECT
+# Laporan Praktikum #2 - CLASS DAN OBJEC
 
 ## Kompetensi
 
