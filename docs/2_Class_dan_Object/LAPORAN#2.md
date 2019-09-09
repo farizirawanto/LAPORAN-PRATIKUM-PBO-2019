@@ -2,7 +2,7 @@
 
 ## Kompetensi
 
-dapat memahami deskripsi dari class dan object 
+dapat memahami deskripsi dari class dan object
  Mahasiswa memahami implementasi 
  Mahasiswa dapat memahami implementasi dari attribute 
  Mahasiswa dapat memahami implementasi dari method 
