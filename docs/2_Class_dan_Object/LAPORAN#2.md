@@ -2,9 +2,15 @@
 
 ## Kompetensi
 
-ketiklah kompetensi tiap praktikum di sini
+Mahasiswa dapat memahami deskripsi dari class dan object 
+ Mahasiswa memahami implementasi dari class 
+ Mahasiswa dapat memahami implementasi dari attribute 
+ Mahasiswa dapat memahami implementasi dari method 
+ Mahasiswa dapat memahami implementasi dari proses instansiasi
+ Mahasiswa dapat memahami implementasi dari try-catch 
+ Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML 
 
-contoh untuk kelas TI-2C
+ kelas TI-2C
 
 ## Ringkasan Materi
 
@@ -18,9 +24,12 @@ contoh untuk kelas TI-2C
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/pratikum1.PNG)
+![ screenshot](img/pratikum1.PNG)
+![ screenshot](img/pratikum1main.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+ link kode program : [kode progam untuk pratikum 1](../../src/2_Class_dan_Object/Mahasiswafrz.java)
+
+ link kode program : [kode progam untuk pratikum 1](../../src/2_Class_dan_Object/TestMhasiswa1841720088.java)
 
 ### Percobaan 2
 
@@ -28,27 +37,59 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+![ screenshot](img/pratikum2.PNG)
+![ screenshot](img/pratikum2main.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+ link kode program : [pratikum barang](../../src/2_Class_dan_Object/Barangfrz1841720088.java)
+
+ link kode program : [barang main](../../src/2_Class_dan_Object/TestBarang1841720088frz.java)
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+(tidak ada pertanyaan)
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+`Tugas 1`
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+![ screenshot](img/gambar.PNG)
+
+
+
+`Tugas 2`
+
+![ screenshot](img/persewaan1.1.PNG)
+![ screenshot](img/persewaan1.2.PNG)
+![ screenshot](img/persewaanmain.PNG)
+
+ link kode program : [tugas 2 persewaan](../../src/2_Class_dan_Object/Persewannfrz1841720088.java)
+
+link kode program : [persewaan main](../../src/2_Class_dan_Object/miansewafrz.java)
+
+`Tugas 3`
+
+![screenshot](img/lingkaran.PNG)
+![screenshot](img/mainligkaran.PNG)
+
+ link kode program : [linkaran](../../src/2_Class_dan_Object/LIngkara1841720088frz.java)
+
+ link kode program : [linkaran main](../../src/2_Class_dan_Object/mainlingkaranfrz.java)
+
+
+`Tugas 4`
+
+![ screenshot](img/tugasbarang.PNG)
+![ screenshot](img/tugasbarangmain.PNG)
+
+ link kode program : [Barang](../../src/2_Class_dan_Object/barangfrz.java)
+
+ link kode program : [ini contoh link ke kode program](../../src/2_Class_dan_Object/barangmainfrz.java)
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+(Objek bisa di akses oleh class lain)
 
 ## Pernyataan Diri
 
@@ -58,4 +99,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(MOCHAMAD FARIZ I)***
