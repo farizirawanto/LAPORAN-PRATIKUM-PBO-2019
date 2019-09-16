@@ -145,8 +145,8 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/Encapdemotestfari
          File program no 5 ada di tugas no 6 karena programnya saling berhubungan
 
 6. 
- ![](img/tugas6.PNG)
-   ![](img/tugas6hasil.PNG)
+![](img/tugas6.PNG)
+
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/AnggotaFariz.java)
 
