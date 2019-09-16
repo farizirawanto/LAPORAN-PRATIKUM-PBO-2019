@@ -115,7 +115,7 @@ Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/KoperasiDemo.java
 
 ![](img/Tugas1.main.PNG)
 
-Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Encapsemofrz.java)
+Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/Encapsemofrz.java)
 
 Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/Encapdemotestfariz.java)
 
