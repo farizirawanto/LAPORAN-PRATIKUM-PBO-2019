@@ -111,9 +111,9 @@ Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/KoperasiDemo.java
  
 
 1. 
-![](img/tugas1.PNG)
+![](img/Tugas1.PNG)
 
-![](img/tugas1.main.PNG)
+![](img/Tugas1.main.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Encapsemofrz.java)
 
@@ -123,9 +123,9 @@ Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/Encapdemotestfari
 
 
 3. 
-![](img/tugas3.PNG)
+![](img/Tugas3.PNG)
    
-![](img/tugas3.main.PNG)
+![](img/Tugas3.main.PNG)
 
 Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/Encapsemofrz.java)
 
@@ -133,9 +133,9 @@ Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/Encapdemotestfari
 
 
 4. 
- ![](img/tugas4.PNG)
+ ![](img/Tugas4.PNG)
    
-  ![](img/tugas4.main.PNG)
+  ![](img/Tugas4.main.PNG)
      
          File program no 4 ada di tugas no 6 karena programnya saling berhubungan
 5. 
@@ -146,7 +146,7 @@ Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/Encapdemotestfari
          File program no 5 ada di tugas no 6 karena programnya saling berhubungan
 
 6. 
-![](img/tugas6.PNG)
+![](img/Tugas6.PNG)
 
 
 Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/AnggotaFariz.java)
