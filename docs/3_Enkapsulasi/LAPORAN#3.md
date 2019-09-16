@@ -21,9 +21,9 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
  (Enkapsulasi)
 
 
-![](img/Percobaan3.1.png)
+![](img/Percobaan3.1.PNG)
 
-![](img/Percobaan3.1main.png)
+![](img/Percobaan3.1main.PNG)
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Motorfrz.java)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/MotorDemofrz.java)
@@ -33,9 +33,9 @@ Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/MotorDemofrz.java
 
 ( Access Modifier )
 
-![](img/Percobaan3.2.png)
+![](img/Percobaan3.2.PNG)
 
-![](img/Percobaan3.2.nain.png)
+![](img/Percobaan3.2.nain.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/MotorModif.java)
 
@@ -60,9 +60,9 @@ Jawab
 ( Getter dan Setter )
 
 
-![](img/Percobaan3.4.png)
+![](img/Percobaan3.4.PNG)
 
-![](img/Percobaan3.4main.png)
+![](img/Percobaan3.4main.PNG)
 
 
 Link kode progam sama dengan percobaan 5
@@ -73,9 +73,9 @@ Link kode progam sama dengan percobaan 5
 
 
 
-![](img/Percobaan3.5.png)
+![](img/Percobaan3.5.PNG)
 
-![](img/Percobaanmain3.5.png)
+![](img/Percobaanmain3.5.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Anggotafrz.java)
 
@@ -110,9 +110,9 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo.java
  
 
 1. 
-![](img/tugas1.png)
+![](img/tugas1.PNG)
 
-![](img/tugas1.main.png)
+![](img/tugas1.main.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Encapsemofrz.java)
 
@@ -122,9 +122,9 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/Encapdemotestfari
 
 
 3. 
-![](img/tugas3.png)
+![](img/tugas3.PNG)
    
-![](img/tugas3.main.png)
+![](img/tugas3.main.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Encapsemofrz.java)
 
@@ -132,21 +132,21 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/Encapdemotestfari
 
 
 4. 
- ![](img/tugas4.png)
+ ![](img/tugas4.PNG)
    
-  ![](img/tugas4.main.png)
+  ![](img/tugas4.main.PNG)
      
          File program no 4 ada di tugas no 6 karena programnya saling berhubungan
 5. 
-![](img/tugas5.png)
+![](img/tugas5.PNG)
    
-![](img/tugas5.main.png)
+![](img/tugas5.main.PNG)
 
          File program no 5 ada di tugas no 6 karena programnya saling berhubungan
 
 6. 
- ![](img/tugas6.png)
-   ![](img/tugas6hasil.png)
+ ![](img/tugas6.PNG)
+   ![](img/tugas6hasil.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/AnggotaFariz.java)
 
