@@ -24,6 +24,7 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
 ![](img/Percobaan3.1.PNG)
 
 ![](img/Percobaan3.1main.PNG)
+
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Motorfrz.java)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/MotorDemofrz.java)
