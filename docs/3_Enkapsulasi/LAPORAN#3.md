@@ -155,7 +155,7 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/TestKoperasi.java
 
 ## Kesimpulan
 
-•	Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, access modifier yang
+	Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, access modifier yang
 terdiri dari 4 jenis yaitu public, protected, default dan private. Konsep atribut atau method class
 yang ada di dalam blok code class dan konsep instansiasi atribut atau method. Cara penggunaan
 getter dan setter beserta fungsi dari getter dan setter. Dan juga telah dipelajari atau memahami
