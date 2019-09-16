@@ -25,9 +25,9 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
 
 ![](img/Percobaan3.1main.PNG)
 
-Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Motorfrz.java)
+link kode program : [kode progam](../../Src/3_Enkapsulasi/Motorfrz.java)
 
-Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/MotorDemofrz.java)
+Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/MotorDemofrz.java)
 
 
 ### Percobaan 2
@@ -38,9 +38,9 @@ Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/MotorDemofrz.java
 
 ![](img/Percobaan3.2.nain.PNG)
 
-Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/MotorModif.java)
+Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/MotorModif.java)
 
-Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/MotorModifmainfrz.java)
+Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/MotorModifmainfrz.java)
 
 ### Pertanyaan
 Soal percobaan 3
@@ -78,9 +78,9 @@ Link kode progam sama dengan percobaan 5
 
 ![](img/Percobaanmain3.5.PNG)
 
-Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Anggotafrz.java)
+Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/Anggotafrz.java)
 
-Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo.java)
+Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/KoperasiDemo.java)
 
 
 ### Pertanyaan
@@ -117,7 +117,7 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo.java
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Encapsemofrz.java)
 
-Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/Encapdemotestfariz.java)
+Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/Encapdemotestfariz.java)
 
 2. Karena pada method setAge() terdapat kondisi jika newAge > 30 maka muncul output dengan nilai 30,jika kita mengatur atribut age dengan inputan 35 yang muncul adalah 30.
 
@@ -127,9 +127,9 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/Encapdemotestfari
    
 ![](img/tugas3.main.PNG)
 
-Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Encapsemofrz.java)
+Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/Encapsemofrz.java)
 
-Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/Encapdemotestfariz.java)
+Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/Encapdemotestfariz.java)
 
 
 4. 
@@ -149,9 +149,9 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/Encapdemotestfari
 ![](img/tugas6.PNG)
 
 
-Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/AnggotaFariz.java)
+Contoh link kode program : [Program 1](../../Src/3_Enkapsulasi/AnggotaFariz.java)
 
-Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/TestKoperasi.java)
+Contoh link kode program : [Program 2](../../Src/3_Enkapsulasi/TestKoperasi.java)
 
 
 ## Kesimpulan
