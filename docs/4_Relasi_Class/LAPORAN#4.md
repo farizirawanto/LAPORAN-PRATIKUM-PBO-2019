@@ -217,7 +217,7 @@ link kode program : [Program 3](../../Src/4_Relasi_Class/transaksi.java)
 
 link kode program : [Program 4](../../Src/4_Relasi_Class/statustransaksi.java)
 
-link kode program : [Program 5](../../src/4_Relasi_Class/mianpulsa.java)
+link kode program : [Program 5](../../Src/4_Relasi_Class/mianpulsa.java)
 
 
 
