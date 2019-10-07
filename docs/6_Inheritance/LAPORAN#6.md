@@ -173,7 +173,7 @@ link kode program : [Program 3](../../Src/6_Inheritance/P6_Staff.java)
 
 link kode program : [Program 4](../../Src/6_Inheritance/P6_StaffHarian.java)
 
-link kode program : [Program 5](../../Src/6_Inheritance/P6_Stafftetap.java)
+link kode program : [Program 5](../../Src/6_Inheritance/P6_StaffTetap.java)
 
 link kode program : [Program 6](../../Src/6_Inheritance/P6_main.java)
  
