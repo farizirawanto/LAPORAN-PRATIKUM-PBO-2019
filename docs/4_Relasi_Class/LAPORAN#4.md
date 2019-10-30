@@ -1,7 +1,7 @@
 # Laporan Praktikum #4 - Relasi Kelas
 ## Kompetensi
 
-1. Memahami konsep relasi kelas;
+1. Memahami konsep relasi kelas
 2. Mengimplementasikan relasi has‑a dalam program. 
 
 
