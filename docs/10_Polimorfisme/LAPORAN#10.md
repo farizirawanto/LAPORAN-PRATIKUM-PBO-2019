@@ -31,7 +31,7 @@ link kode program : [Program 3](../../Src/10_Polimorfisme/P1_Payable.java)
 
 link kode program : [Program 4](../../Src/10_Polimorfisme/P1_PermanentEmployee.java)
 
-link kode program : [Program 5](../../Src/10_Polimorfisme/P1_Tester1.java)
+link kode program : [Program 5](../../Src/10_Polimorfisme/Tester1.java)
 
 
 
