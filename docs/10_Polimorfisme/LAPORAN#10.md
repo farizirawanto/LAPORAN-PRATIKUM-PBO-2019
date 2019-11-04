@@ -31,7 +31,7 @@ link kode program : [Program 3](../../Src/10_Polimorfisme/P1_Payable.java)
 
 link kode program : [Program 4](../../Src/10_Polimorfisme/P1_PermanentEmployee.java)
 
-link kode program : [Program 5](../../Src/10_Polimorfisme/P1_tester1.java)
+link kode program : [Program 5](../../Src/10_Polimorfisme/P1_Tester1.java)
 
 
 
@@ -70,7 +70,7 @@ link kode program : [Program 1](../../Src/10_Polimorfisme/Tester2.java)
 ### Percobaan 3
 ![percobaan3](img/Tester3.PNG)
 
-link kode program : [Program 1](../../Src/10_Polimorfisme/P1_Tester3.java)
+link kode program : [Program 1](../../Src/10_Polimorfisme/Tester3.java)
 
 ### Pertanyaan - Percobaan 3 : 
 1. 
@@ -89,7 +89,7 @@ link kode program : [Program 1](../../Src/10_Polimorfisme/P1_Tester3.java)
 
 link kode program : [Program 1](../../Src/10_Polimorfisme/P4_Owner.java)
 
-link kode program : [Program 2](../../Src/10_Polimorfisme/P1_Tester4.java)
+link kode program : [Program 2](../../Src/10_Polimorfisme/Tester4.java)
 
 ### Pertanyaan - Percobaan 4 : 
 1. 
@@ -137,7 +137,7 @@ link kode program : [Program 6](../../Src/10_Polimorfisme/T_Zombie.java)
 link kode program : [Program 7](../../Src/10_Polimorfisme/T_main.java)
 
 ## Kesimpulan
-Polimorfisme merupakan kemampuan suatu objek untuk memiliki banyak bentuk. 
+Polimorfisme merupakan siaft objek yang bisa memiliki banyak bentuk dan fungsi. 
 
 ## Pernyataan Diri
 
