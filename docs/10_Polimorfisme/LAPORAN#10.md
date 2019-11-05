@@ -18,7 +18,7 @@ Polimorfisme merupakan kemampuan suatu objek untuk memiliki banyak bentuk. Pengg
 
 ### Percobaan 1
 ![percobaan1](img/P1_Employee.PNG)
-![percobaan1](img/P1_Intershipemployee.PNG)
+![percobaan1](img/P1_IntershipEmployee.PNG)
 ![percobaan1](img/P1_Payable.PNG)
 ![percobaan1](img/P1_PermanentEMployee.PNG)
 ![percobaan1](img/Tester1.PNG)
