@@ -8,9 +8,14 @@ Setelah menyelesaikan lembar kerja ini mahasiswa diharapkan mampu:
 
 
 
-## Ringkasan Materi
+## Ringkasan Mater
+Abstract Class Abstract Class adalah class yang tidak dapat diinstansiasi namun dapat di-extend. Abstract class baru dapat dimanfaatkan ketika ia di-extend.
 
-untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masalah, mulai terbiasa dengan cara pengiriman 
+    Kegunaan Abstract : Menggambarkan sesuatu yang bersifat umum, yang hanya bisa berfungsi setelah ia dideskripsikan ke dalam bentuk yang lebih spesifik.
+
+    Interface Interface adalah struktur data yang hanya berisi abstract methods. Tidak ada apa-apa selain method abstract pada interface, termasuk atribut getter dan setter.
+
+    Kegunaan Interface : Bertindak seperti semacam kontrak/syarat yang HARUS dipenuhi bagi suatu class agar class tersebut dapat dianggap sebagai ‘sesuatu yang lain’. 
 
 ## Praktikum
 
@@ -85,14 +90,11 @@ Link kode program :
 [Pt2Program](../../Src/9_Abstract_Class_dan_Interface/Program.java)
 
 #### soal
-a. Mengapa pada langkah nomor 9 terjadi error? Jelaskan! 
+a. Mengapa pada langkah nomor 9 terjadi error? Jelaskan! Jawab : Karena pada class Mahasiswa tidak ter implementasi interfaces dari Icumlaude sehingga eror ketika akan dipanggil oleh ‘Rektor’
 
-b. Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class Program? Mengapa demikian? 
+b. Dapatkah method kuliahDiKampus() dipanggil dari objek sarjanaCumlaude di class Program? Mengapa demikian? Jawab : Bisa, karena sarjanaCumlaude dari class Sarjana adalah kelas turunan dari ‘Mahasiswa', sehingga method ‘KulihadiKampus’ bisa dipanggil ke class Sarjana
 
-c. Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian? 
-
-d. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini: 
-![](img/soalpt2.PNG)
+c. Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method beriSertifikatCumlaude() pada class Rektor? Mengapa demikian? Jawab : Tidak bisa, karena class rektor hanya menggunakan implementasi dari Icumlaude, dan ‘kuliahDiKampus’ dari Mahasiswa tidak pernah di inisiasi di kelas rektor
 
 
 ### Percobaan 3
