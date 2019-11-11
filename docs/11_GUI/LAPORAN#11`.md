@@ -35,7 +35,7 @@ link kode program : [Program 1](../../Src/11_GUI/P2_MyInputForm.java)
 
 link kode program : [Program 1](../../Src/11_GUI/P3_Border.java)
 
-link kode program : [Program 2](../../Src/11_GUI/P3_Box.java.java)
+link kode program : [Program 2](../../Src/11_GUI/P3_Box.java)
 
 link kode program : [Program 3](../../Src/11_GUI/P3_Grid.java)
 
