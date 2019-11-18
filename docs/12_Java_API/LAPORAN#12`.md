@@ -70,6 +70,8 @@ link kode program : [Program 1](../../Src/12_Java_API/P3_Map.java)
 
 ![percobaan4](img/P4_Mahasiswa3.PNG)
 
+![percobaan4](img/InputData.PNG)
+
 ![percobaan4](img/P4_Main.PNG)
 
 
@@ -77,13 +79,13 @@ link kode program : [Program 1](../../Src/12_Java_API/P4_InputData.java)
 
 
 
-link kode program : [Program 1](../../Src/12_Java_API/P4_Mahasiswa.java) 
+link kode program : [Program 2](../../Src/12_Java_API/P4_Mahasiswa.java) 
 
 
-link kode program : [Program 1](../../Src/12_Java_API/P4_TampilGUI.form) 
+link kode program : [Program 3](../../Src/12_Java_API/P4_TampilGUI.form) 
 
 
-link kode program : [Program 1](../../Src/12_Java_API/P4_TampilGUI.java) 
+link kode program : [Program 4](../../Src/12_Java_API/P4_TampilGUI.java) 
 
 
 
@@ -93,7 +95,7 @@ link kode program : [Program 1](../../Src/12_Java_API/P4_TampilGUI.java)
 
 
 ## Kesimpulan
-
+Java API is a set of libraries that are found in the standard Java distribution, and is called the JRE (Java Runtime). So, every time you use something like Integer as a class for representing integers, you're using Java's API.
 ## Pernyataan Diri
 
 Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
