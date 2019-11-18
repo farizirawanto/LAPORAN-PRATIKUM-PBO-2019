@@ -92,6 +92,18 @@ link kode program : [Program 4](../../Src/12_Java_API/P4_TampilGUI.java)
 
    
 ### Percobaan 5
+![percobaan4](img/P5_1.PNG)
+
+![percobaan4](img/P5_2.PNG)
+
+![percobaan4](img/P5-3.PNG)
+
+![percobaan4](img/P5_main.PNG)
+
+link kode program : [Program 1](../../Src/12_Java_API/P5_FormKoneksi.form))
+
+link kode program : [Program 2](../../Src/12_Java_API/P5_FormKoneksi.java) 
+
 
 
 ## Kesimpulan
