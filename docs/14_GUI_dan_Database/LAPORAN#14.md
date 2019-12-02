@@ -67,7 +67,8 @@ Anggota : [Link kode progam](../../Src/14_GUI_dan_Database/backend/Anggota.java)
 
 ![Percobaan](img/P7.PNG)
 
-FrmAnggota : [link kode progam](../..Src/14_GUI_dan_Database/frontend/FrmAnggota.java)
+frmAnggota : [Link kode progam](../../Src/14_GUI_dan_Database/frontend/FrmAnggota.java)
+
 
 ### Percobaan 7 (2)
 
