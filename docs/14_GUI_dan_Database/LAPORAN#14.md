@@ -7,7 +7,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 2. Membuat backend dan frontend 
 3. Membuat form sebagai fronten
 
-## Ringkasan Materix
+## Ringkasan Materi
 Kali ini kita akan menggunakan paradigma berorientasi objek yang telah kita pelajari untuk membuat aplikasi berbasis database dan dilengkapi dengan form sebagai Graphical User Interface (GUI). 
 
 Secara umum, tahapan yang akan kita lakukan adalah sebagai berikut: 
