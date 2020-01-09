@@ -31,19 +31,19 @@ LearnUnitTesting : [KLIK](../../Src/15_Unit_Testing/LearnUnitTesting.java)
 
 ![Percobaan](img/kategori.PNG)
 
-DBHelper : [KLIK](../../src/15_Unit_Testing/DBHelper.java)
+DBHelper : [KLIK](../../Src/15_Unit_Testing/DBHelper.java)
 
-FormKategori : [KLIK](../../src/15_Unit_Testing/FormKategori.java)
+FormKategori : [KLIK](../../Src/15_Unit_Testing/FormKategori.java)
 
-Kategori : [KLIK](../../src/15_Unit_Testing/Kategori.java)
+Kategori : [KLIK](../../Src/15_Unit_Testing/Kategori.java)
 
-TestBackend : [KLIK](../../src/15_Unit_Testing/TestBackend.java)
+TestBackend : [KLIK](../../Src/15_Unit_Testing/TestBackend.java)
 
-KategoriTest : [KLIK](../../src/15_Unit_Testing/KategoriTest.java)
+KategoriTest : [KLIK](../../Src/15_Unit_Testing/KategoriTest.java)
 
-TestBackend : [KLIK](../../src/15_Unit_Testing/TestBackend.java)
+TestBackend : [KLIK](../../Src/15_Unit_Testing/TestBackend.java)
 
-TestRunner : [KLIK](../../src/15_Unit_Testing/TestRunner.java)
+TestRunner : [KLIK](../../Src/15_Unit_Testing/TestRunner.java)
 
 
 
@@ -53,11 +53,11 @@ TestRunner : [KLIK](../../src/15_Unit_Testing/TestRunner.java)
 
 ![Tugas](img/Tugas1.PNG)
 
-FormKategori : [KLIK](../../src/15_Unit_Testing/Tugas/FormKategori.java)
+FormKategori : [KLIK](../../Src/15_Unit_Testing/Tugas/FormKategori.java)
 
-Kategori : [KLIK](../../src/15_Unit_Testing/Tugas/Kategori.java)
+Kategori : [KLIK](../../Src/15_Unit_Testing/Tugas/Kategori.java)
 
-DBHelper : [KLIK](../../src/15_Unit_Testing/Tugas/DBHelper.java)
+DBHelper : [KLIK](../../Src/15_Unit_Testing/Tugas/DBHelper.java)
 
 ## Kesimpulan
 
