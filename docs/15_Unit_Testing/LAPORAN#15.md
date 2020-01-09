@@ -53,11 +53,11 @@ TestRunner : [KLIK](../../Src/15_Unit_Testing/TestRunner.java)
 
 ![Tugas](img/Tugas1.PNG)
 
-FormKategori : [KLIK](../../Src/15_Unit_Testing/Tugas/FormKategori.java)
+FormKategori : [KLIK](../../Src/15_Unit_Testing/FormKategori.java)
 
-Kategori : [KLIK](../../Src/15_Unit_Testing/Tugas/Kategori.java)
+Kategori : [KLIK](../../Src/15_Unit_Testing/Kategori.java)
 
-DBHelper : [KLIK](../../Src/15_Unit_Testing/Tugas/DBHelper.java)
+DBHelper : [KLIK](../../Src/15_Unit_Testing/TDBHelper.java)
 
 ## Kesimpulan
 
